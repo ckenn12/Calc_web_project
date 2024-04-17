@@ -1,1 +1,1 @@
-# Calc_web_project
+A for-fun projuct that has an interactable, functioning calculator.
